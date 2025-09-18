@@ -1,2 +1,2 @@
 # MPIKit
-An Objective-C wrapper for MPI (Message Passing Interface).
+An experimental Objective-C wrapper for MPI (Message Passing Interface).
